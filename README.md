@@ -28,3 +28,7 @@ This script generates a security test report based on the results of the network
 
 # Usage
 Copy to the computer by git clone. You should examine the texts in the files one by one and use them. We closed the general usage path so that it would not be easy for someone who does not understand it to use it. You need to manually run and use the files by editing them one by one.
+
+# Credit and Thanks
+
+Thanks to Aysu Nasibova who gave me this idea
